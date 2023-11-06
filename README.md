@@ -1,17 +1,19 @@
 <div align="center">
 
- # LUIZ ANTÔNIO JR
+# LUIZ ANTÔNIO JR
 
  ### Come in, don't be shy!
 
-Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus projetos de estudo.
+ I'm a student of **Information Systems** . Here are some of my study projects.
+
+ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus projetos de estudo.
 
  <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/QBvHYx6taXPwCHqTRR" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/design-loop-alien-QBvHYx6taXPwCHqTRR"></a></p>  
+  <img src="penguin.gif" width="250"/>
+ </div>
  </div>
  
-</a>
-</div>
+ <br></br>
 
 👋 Opa! Me chamo Luiz Antonio, estudo Análise de Dados com foco em transformar informação bruta em livro infantil (didático, facil de interpretar e cheio de figurinhas pra ajudar ainda mais o entendimento).
 
@@ -63,4 +65,4 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
 
  
   <a href="https://www.linkedin.com/in/luiz-antonio-15b7b395/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luiz-dh@hotmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" target="_blank"></a>
+  <a href = "mailto:luiz-dh@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
