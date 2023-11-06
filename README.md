@@ -7,7 +7,7 @@
 Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus projetos de estudo.
 
  <div id="header" align="center">
-  <img src="https://giphy.com/gifs/design-loop-alien-QBvHYx6taXPwCHqTRR" width="250"/>
+  <iframe src="https://giphy.com/embed/QBvHYx6taXPwCHqTRR" width="250" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/design-loop-alien-QBvHYx6taXPwCHqTRR"></a></p>  
  </div>
  
 </a>
