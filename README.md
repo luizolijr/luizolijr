@@ -41,6 +41,8 @@
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code)
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-squareflat-square&logo=mysql&logoColor=white)
+ ![Excel VBA](https://img.shields.io/badge/Microsoft_Excel-black?style=flat-squareflat-square&logo=microsoft-excel&logoColor=white)
+ 
  
  #### 🎲 Ciência de dados (data science):
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-squareflat-square&logo=Pandas)
@@ -62,6 +64,10 @@
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
 
 
- 
+ <div id="header" align="center">
+
+  #### *If you need anything, do not hesitate to get in touch with me!*  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <a href="https://www.linkedin.com/in/luiz-antonio-15b7b395/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luiz-dh@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ </div>
