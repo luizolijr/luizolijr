@@ -1,7 +1,4 @@
 <div align="center">
-
-# LUIZ ANTÔNIO JR
-
  ### Come in, don't be shy!
 
  I'm a student of **Information Systems** . Here are some of my study projects.
