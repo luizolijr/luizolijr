@@ -14,7 +14,7 @@
  
  <br></br>
 
-👋 Opa! Me chamo Luiz Antonio, estudo Análise de Dados com foco em transformar informação bruta em livro infantil (didático, facil de interpretar e cheio de figurinhas pra ajudar ainda mais o entendimento).
+👋 Opa, tudo certo? Me chamo Luiz Antonio! Estudo Análise de Dados com foco em transformar informação bruta em livro infantil (didático, facil de interpretar e cheio de figurinhas pra ajudar ainda mais o entendimento).
 
 🔍 Como Analista de Dados, meu objetivo é desvendar padrões ocultos nos dados e contar histórias convincentes por meio de análises. Meu portfólio inclui projetos de Ciência de Dados que abordam classificações de clientes, recomendações de compra e venda, etc.
 
