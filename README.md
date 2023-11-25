@@ -3,9 +3,8 @@
 
  ### Come in, don't be shy!
 
- I'm a student of **Information Systems** . Here are some of my study projects.
 
- Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus projetos de estudo.
+ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus projetos.
 
  <div id="header" align="center">
   <img src="penguin.gif" width="250"/>
