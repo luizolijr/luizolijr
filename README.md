@@ -19,7 +19,6 @@
 
 🛠️ Minhas Hard Skills:
 - Manipulação de dados com Python (pandas, numpy)
-- Análise estatística e modelagem (scikit-learn, statsmodels)
 - Visualização de dados (Matplotlib, Seaborn, Power BI)
 - SQL para consultas e análises de bancos de dados
 
