@@ -55,13 +55,6 @@
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 
  
- #### 🌱 Estou aprendendo (I'm learning):
- 
- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
- ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
-
-
  <div id="header" align="center">
 
   #### *If you need anything, do not hesitate to get in touch with me!*  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
